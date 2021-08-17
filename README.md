@@ -100,7 +100,7 @@ CIMB Niaga & BII
   <br><br>
 
 
-<hr> </hr>
+<hr> 
 
 ## 🏆 Side Accomplishments
 
