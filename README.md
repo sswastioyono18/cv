@@ -28,6 +28,9 @@ donations and payments everyday
   Influx, Timescale and many more
   <br><br>
 
+
+
+
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
 
@@ -60,6 +63,11 @@ process.
 by 25% - Developed and Led Cash Flow Cash Forecasting module with 4 team members. 
 - **_Technologies used:_** Java 1.8, JSP, Oracle, IBM Websphere, Jenkins, JMS, Shell scripting and Windows Batch
 <br><br>
+
+
+
+
+
 
 
 **Senior Application Engineer** @ [PT Hitachi eBworx Indonesia](http://www.hitachi-ebworx.com/) _(Apr 2017 - Apr
