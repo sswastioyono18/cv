@@ -23,7 +23,8 @@ donations and payments everyday
 - Maintain existing payment system as well as other related monolith core system
 - Extending a company-wide design system by proposing new technology or improving existing one by identifying coupled
   business logic
-- **_Technologies used:_** Golang, Python, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
+
+**_Technologies used:_** Golang, Python, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
   Influx, Timescale and many more
   <br><br>
 
@@ -41,8 +42,8 @@ front of the customer / picked up in post office/convenience store around Japan.
   issue occurs
 - Created GUI tools for other team to do specific test more easily using Springboot and Thymyleaf. This tool
   significantly improve test experience which previously done by creating the file manually and prone to error
-- **_Technologies used:_** Java 8, Springboot, React, Oracle, Jenkins, Tomcat, Maven, Thymyleaf, Python, Bash and other shell scripting
-  <br><br>
+
+**_Technologies used:_** Java 8, Springboot, React, Oracle, Jenkins, Tomcat, Maven, Thymyleaf, Python, Bash and other shell scripting
 
 <hr>
 <h3> Hitachi eBworx Indonesia </h3>
@@ -72,7 +73,8 @@ My main responsibility during this role was helping Hitachi eBworx client at tha
 - Developed batch module Credit Debit Advice
 - Improved log readability for MT940 and
   MT942
-- **_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
+
+**_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
   <br><br>
   
 
@@ -93,7 +95,8 @@ RHB
 CIMB Niaga & BII
 - Bug fixing
   
-- **_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
+
+**_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
   <br><br>
 
 
