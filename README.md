@@ -106,7 +106,7 @@ CIMB Niaga & BII
 
 ## 🏆 Side Accomplishments
 
-**Won 1st Place** Counter-Strike & Crash Team Racing competition during yearly event of my faculty_(2010)_ <br>
+**Won 1st Place** Counter-Strike & Crash Team Racing competition during yearly event of my faculty _(2010)_ <br>
 
 ## 💬 Languages
 
