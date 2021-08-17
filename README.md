@@ -28,7 +28,7 @@ donations and payments everyday
   Influx, Timescale and many more
   <br><br>
 
-<br><br><br><br>
+<br><br>
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
 
