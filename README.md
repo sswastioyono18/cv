@@ -43,6 +43,7 @@ front of the customer / picked up in post office/convenience store around Japan.
   issue occurs
 - Created GUI tools for other team to do specific test more easily using Springboot and Thymyleaf. This tool
   significantly improve test experience which previously done by creating the file manually and prone to error
+- Migrated old mail system module into a new architecture composed by API and Consumer  
 
 **_Technologies used:_** Java 8, Springboot, React, Oracle, Jenkins, Tomcat, Maven, Thymyleaf, Python, Bash and other shell scripting
 
