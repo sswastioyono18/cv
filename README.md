@@ -15,7 +15,7 @@ _A curiosity driven minded yet clumsy software engineer_
 <h3>Kitabisa </h3>
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Present)_ <br>
-Working in crowdfunding company by providing a robust payment system that can serve more than one hundred thousands of
+Working in crowdfunding company by providing a robust payment system which serve more than one hundred thousand
 donations and payments everyday 
 
 <b> Notable activities & responsibilities:</b>
@@ -66,7 +66,7 @@ by 25% - Developed and Led Cash Flow Cash Forecasting module with 4 team members
 
 **Senior Application Engineer** @ [PT Hitachi eBworx Indonesia](http://www.hitachi-ebworx.com/) _(Apr 2017 - Apr
 2018)_ <br>
-My main responsibility during this role was helping Hitachi eBworx client at that time, BNP Paribas, to roll out 1st & 2nd SDLC.
+My main responsibility during this role was helping Hitachi eBworx client at that time, BNP Paribas, to roll out 1st & 2nd SDLC on deploying core banking solution.
 
 <b> Notable activities & responsibilities:</b>
 
@@ -100,6 +100,21 @@ CIMB Niaga & BII
 
 **_Technologies used:_** Java 1.6 & Java 1.8, JSP, Oracle, Oracle Weblogic, IBM Websphere
   <br><br>
+
+<hr>
+<h3>Government Procurement Agency</h3>
+
+**Application Engineer** @ [Government Procurement Agency](http://www.lkpp.go.id/v3/) _(Jan 2011 - Aug 2013)_ <br>
+
+<b> Notable activities & responsibilities:</b>
+
+- Implement REST API on procurement system to retrieve all the data related with procurement from all around Indonesia.
+- Created data warehouse and supporting architecture using Pentaho BI.
+- Created Reporting system based on the data retrieved periodically
+
+
+**_Technologies used:_** Spring, Java 1.6, Pentaho BI
+<br><br>
 
 
 <hr> 
