@@ -104,7 +104,7 @@ CIMB Niaga & BII
 <hr>
 <h3>Government Procurement Agency</h3>
 
-**Application Engineer** @ [Government Procurement Agency](http://www.lkpp.go.id/v3/) _(Jan 2011 - Aug 2013)_ <br>
+**Application Developer** @ [Government Procurement Agency](http://www.lkpp.go.id/v3/) _(Jan 2011 - Aug 2013)_ <br>
 
 <b> Notable activities & responsibilities:</b>
 
