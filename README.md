@@ -61,7 +61,8 @@ process.
 - Initiated Jenkins pipeline deployment which reduced deployment time by 50% (from 60 minutes to 30 minutes)
 - Initiated DCEVM and Hotswapagent to help reducing downtime of local development application server (Oracle Weblogic)
 by 25% - Developed and Led Cash Flow Cash Forecasting module with 4 team members. 
-- **_Technologies used:_** Java 1.8, JSP, Oracle, IBM Websphere, Jenkins, JMS, Shell scripting and Windows Batch
+
+**_Technologies used:_** Java 1.8, JSP, Oracle, IBM Websphere, Jenkins, JMS, Shell scripting and Windows Batch
 <br><br>
 
 
