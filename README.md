@@ -10,7 +10,6 @@ _A curiosity driven minded yet clumsy software engineer_
 Looking for a tech lead or managerial role  
 Please don't give me complex codility or complicated take home test :) 
 
-
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
 / [GitHub](https://github.com/sswastioyono18/)
 
