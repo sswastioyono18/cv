@@ -7,9 +7,9 @@ _A curiosity driven minded yet clumsy software engineer_
 <br> vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
 
 ## What I want to be
-Looking for a tech lead or managerial role  
+<br>Looking for a tech lead or managerial role  
 <br> please don't give me complex codility or complicated take home test :) 
-<br>
+
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
 / [GitHub](https://github.com/sswastioyono18/)
