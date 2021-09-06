@@ -6,6 +6,9 @@ _A curiosity driven minded yet clumsy software engineer_
 <br> _currently on my 8th years as engineer
 <br> vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
 
+## What I want to be
+<br> looking for a tech lead and managerial role and please don't give me complex codility or complicated take home test :) <br>
+
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
 / [GitHub](https://github.com/sswastioyono18/)
 
