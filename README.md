@@ -5,7 +5,7 @@ _A curiosity driven minded and polyglot engineer_
 <br> _vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
 
 ## What I want to be
-Looking for a place that can give me constant challenge and opportunity 
+Looking for a place that can give me constant challenge and opportunity <br>
 I would love to leverage my experience and knowledge to improve the quality of the team and organization.
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
