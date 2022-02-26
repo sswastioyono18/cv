@@ -1,14 +1,12 @@
 # Sactio Swastioyono
 
-_A curiosity driven minded yet clumsy software engineer_ 
-<br> _who will take some time to understand what you want_
-<br> _because I'm also a human_
-<br> _currently on my 8th years as engineer
-<br> vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
+_A curiosity driven minded and polyglot engineer_
+<br> _loved to experiment with new emerging tech and passionate about people & human behaviour_
+<br> _vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
 
 ## What I want to be
-Looking for a tech lead or managerial role  
-Please don't give me complex codility or complicated take home test :) 
+Looking for a place that can give me constant challenge and opportunity 
+I would love to leverage my experience and knowledge to improve the quality of the team and organization.
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
 / [GitHub](https://github.com/sswastioyono18/)
@@ -18,25 +16,30 @@ Please don't give me complex codility or complicated take home test :)
 <hr>
 <h3>Kitabisa </h3>
 
-**Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Present)_ <br>
-Working in crowdfunding company by providing a robust payment system which serve more than one hundred thousand
-donations and payments everyday 
+**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2020 - Present)_ <br>
+- Act as both Tech Lead and Manager on Platform & Payment team
+- Managed, coached and nurtured a small team consist of 3 - 4 BE Members. 
+- Owned the backend side of Kitabisa platform especially the "donor" platform (e.g login, register, payment, donation, notification)
+- Responsible on improving observability, robustness and fault tolerance of all services related to donor
 
-<b> Notable activities & responsibilities:</b>
 
-- Maintain existing payment system as well as other related monolith core system
+**Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2020)_ <br>
+I own the payment domain. Below are what I usually dealt with everyday 
+- Ensure data consistency between payment system and finance ops 
+- Maintain existing payment system as well as other related monolith application
+- Provide additional payment method in Kitabisa ecosystem
 - Extending a company-wide design system by proposing new technology or improving existing one by identifying coupled
-  business logic
+  business logic related with payment domain
 
-**_Technologies used:_** Golang, Python, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
-  Influx, Timescale and many more
+**_Technologies used:_** Golang, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
+  Influx, Timescale, Jaeger
   <br><br>
 
 
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
 
-**Backend Engineer** @ [Rakuten Books - Tokyo](https://books.rakuten.co.jp/) _(Sep 2018 - Okt 2020)_ <br>
+**Backend Engineer** @ [Rakuten Books - Tokyo](https://books.rakuten.co.jp/) _(Sep 2018 - Oct 2020)_ <br>
 As backend engineer in Rakuten Books, My main role spans from ensuring orders were made without issue until package arrived in
 front of the customer / picked up in post office/convenience store around Japan.
 
