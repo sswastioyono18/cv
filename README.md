@@ -32,7 +32,7 @@ I own the payment domain. Below are what I usually dealt with everyday
   business logic related with payment domain
 
 **_Technologies used:_** Golang, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
-  Influx, Timescale, Jaeger
+  Influx, Timescale, Jaeger, GCP
   <br><br>
 
 
