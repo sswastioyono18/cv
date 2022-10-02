@@ -2,7 +2,7 @@
 
 _A curiosity driven minded and polyglot engineer_
 <br> _loved to experiment with new emerging tech and passionate about people & human behaviour_
-<br> _vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
+<br> _vast knowledge and experience from various sectors such as banking, e-commerce and crowdfunding_ <br>
 
 ## What / Where I want to be
 Looking for a place that can give me constant challenge and opportunity. <br>
