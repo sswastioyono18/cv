@@ -4,8 +4,8 @@ _A curiosity driven minded and polyglot engineer_
 <br> _loved to experiment with new emerging tech and passionate about people & human behaviour_
 <br> _vast knowledge and experience from various sectors such as financial, e-commerce and crowdfunding_ <br>
 
-## What I want to be
-Looking for a place that can give me constant challenge and opportunity <br>
+## What / Where I want to be
+Looking for a place that can give me constant challenge and opportunity. <br>
 I would love to leverage my experience and knowledge to improve the quality of the team and organization.
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
@@ -16,14 +16,16 @@ I would love to leverage my experience and knowledge to improve the quality of t
 <hr>
 <h3>Kitabisa </h3>
 
-**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2020 - Present)_ <br>
-- Act as both Tech Lead and Manager on Platform & Payment team
-- Managed, coached and nurtured a small team consist of 3 - 4 BE Members. 
-- Owned the backend side of Kitabisa platform especially the "donor" platform (e.g login, register, payment, donation, notification)
-- Responsible on improving observability, robustness and fault tolerance of all services related to donor
+**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Present)_ <br>
+Act as both Tech Lead and Manager on Platform & Payment team
+- Work together with PM and other leaders to define product roadmap & OKR
+- Managed and coached 8 members from multiple domain (QA, Mobile & Backend). 
+- Improve engineer efficiency by integrating JIRA & Github into a single workflow
+- Create tech roadmap for reducing tech debt and proposing new tech driven project
+- Standardize and implement new onboarding process for new engineer 
 
 
-**Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2020)_ <br>
+**Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
 I own the payment domain. Below are what I usually dealt with everyday 
 - Ensure data consistency between payment system and finance ops 
 - Maintain existing payment system as well as other related monolith application
@@ -32,9 +34,10 @@ I own the payment domain. Below are what I usually dealt with everyday
   business logic related with payment domain
 
 **_Technologies used:_** Golang, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
-  Influx, Timescale, Jaeger, GCP
+Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
+**_Notable achievement :_** Migrate monolith PHP Kurban architecture to Kubernetes
 
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
