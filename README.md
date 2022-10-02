@@ -37,7 +37,7 @@ I own the payment domain. Below are what I usually dealt with everyday
 Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
-**_Notable achievement :_** Migrate monolith PHP Kurban architecture to Kubernetes
+**_Notable achievement :_** Migrate monolith PHP Kurban architecture from EC2 to Kubernetes
 
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
