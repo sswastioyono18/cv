@@ -11,7 +11,7 @@ I would love to leverage my experience and knowledge to improve the quality of t
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
 / [GitHub](https://github.com/sswastioyono18/)
 
-## 👩🏼‍💻 Technical Experience
+## Technical Experience
 
 <hr>
 <h3>Kitabisa </h3>
@@ -132,17 +132,17 @@ CIMB Niaga & BII
 
 <hr> 
 
-## 🏆 Side Accomplishments
+## Side Accomplishments
 
 **Won 1st Place** Counter-Strike & Crash Team Racing competition during yearly event of my faculty _(2010)_ <br>
 
-## 💬 Languages
+## Languages
 
 **English**: Fluent <br>
 **Indonesian**: Mother tongue
 <br><br>
 
-## 👩🏼‍🎓 Education
+## Education
 
 **Master of Information System** <br>
 [University of Melbourne](https://www.unimelb.edu.au/) - Melbourne, Australia _(2013 - 2015)_
