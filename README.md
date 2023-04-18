@@ -23,9 +23,6 @@ Act as both Tech Lead and Manager on Platform & Payment team
 - Hands on coding to deliver high impact feature
 - Standardize development workflow & onboarding process
 
-Notable project
-- Donasi Otomatis Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
-
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
 I own the payment domain. Below are what I usually dealt with everyday 
@@ -40,7 +37,8 @@ Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
 **_Notable activities & responsibilities: :_** 
-- Migrate monolith PHP Kurban architecture from using old stack in EC2 to Kubernetes
+- Migrate monolith PHP Kurban architecture from EC2 to GKE
+- Donasi Otomatis Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
 
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
