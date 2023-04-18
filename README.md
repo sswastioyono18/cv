@@ -37,7 +37,7 @@ Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
 **_Notable activities & responsibilities: :_** 
-- Migrate monolith PHP Kurban architecture from EC2 to GKE
+- Migrate entire legacy Kurban service to Golang and it's infrastructure from EC2 to GKE
 - Donasi Otomatis Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
 
 <hr>
