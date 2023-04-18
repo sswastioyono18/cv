@@ -32,7 +32,7 @@ I own the payment domain. Below are what I usually dealt with everyday
 - Extending a company-wide design system by proposing new technology or improving existing one by identifying coupled
   business logic related with payment domain
 
-**_Technologies used:_** Golang, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
+**_Technologies used:_** Golang, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
 Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
