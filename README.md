@@ -24,7 +24,7 @@ Act as both Tech Lead and Manager on Platform & Payment team
 - Standardize development workflow & onboarding process
 
 Notable project
-- Donasi Otomatis V1 & V2 which bring 10% overall GDV to Kitabisa
+- Donasi Otomatis Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
