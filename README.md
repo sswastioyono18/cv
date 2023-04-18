@@ -2,7 +2,7 @@
 
 _A curiosity driven minded and polyglot engineer_
 <br> _loved to experiment with new emerging tech and passionate about people & human behaviour_
-<br> _vast knowledge and experience from various sectors such as banking, e-commerce and crowdfunding_ <br>
+<br> _experienced engineer from various sectors such as banking, e-commerce and crowdfunding_ <br>
 
 ## What / Where I want to be
 Looking for a place that can give me constant challenge and opportunity. <br>
@@ -18,11 +18,13 @@ I would love to leverage my experience and knowledge to improve the quality of t
 
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Present)_ <br>
 Act as both Tech Lead and Manager on Platform & Payment team
-- Work together with PM and other leaders to define product roadmap & OKR
-- Managed and coached 8 members from multiple domain (QA, Mobile & Backend). 
-- Improve engineer efficiency by integrating JIRA & Github into a single workflow
-- Create tech roadmap for reducing tech debt and proposing new tech driven project
-- Standardize and implement new onboarding process for new engineer 
+- Align with product to create tech roadmap as well as reducing tech debt
+- Managed and coached multiple team members from multiple domain (QA, Mobile & Backend). 
+- Hands on coding to deliver high impact feature
+- Standardize development workflow & onboarding process
+
+Notable project
+- Donasi Otomatis V1 & V2 which bring 10% overall GDV to Kitabisa
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
