@@ -19,7 +19,7 @@ I would love to leverage my experience and knowledge to improve the quality of t
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Present)_ <br>
 Act as point of contact for backend technical related matter in payment and user platform squad
 - Align with PM to create tech roadmap and reduce tech debt
-- Managed and coached multiple team members from multiple domain (QA, Mobile & Backend). 
+- Managed and coached 8 team members from multiple domain (QA, Mobile & Backend). 
 - Hands on coding to deliver high impact feature
 - Standardize development workflow & onboarding process as part of improving engineering culture
 
