@@ -32,7 +32,7 @@ I own the payment domain. Below are what I usually dealt with everyday
 - Provide additional payment method in Kitabisa ecosystem
 - Extending a company-wide design system by proposing new technology or improving existing system 
 
-**_Technologies used:_** Golang, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
+**_Technologies used:_** Golang, gRPC, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
 Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
