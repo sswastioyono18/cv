@@ -1,11 +1,11 @@
 # Sactio Swastioyono
 
-_A curiosity driven minded and polyglot engineer_
-<br> _loved to experiment with new emerging tech and passionate about people & human behaviour_
-<br> _experienced, hands on engineer from various sectors such as banking, e-commerce and crowdfunding_ <br>
+_A curiosity driven, continuous learning mindset and polyglot engineer_
+<br> _passionate about CI/CD, developer experience, people & human behaviour_
+<br> _experience in managing and also hands on from various sectors such as banking, e-commerce and crowdfunding_ <br>
 
 ## What / Where I want to be
-Looking for a place that can give me constant challenge, growth with no blame culture. <br>
+Looking for a place that can give me constant challenge and growth with no blame culture. <br>
 I would love to leverage my experience and knowledge to improve the quality of the team and organization.
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
@@ -17,11 +17,11 @@ I would love to leverage my experience and knowledge to improve the quality of t
 <h3>Kitabisa </h3>
 
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Present)_ <br>
-Act as both Tech Lead and Manager on Platform & Payment team
-- Align with product to create tech roadmap as well as reducing tech debt
+Act as point of contact for backend technical related matter in payment and user platform squad
+- Align with PM to create tech roadmap and reduce tech debt
 - Managed and coached multiple team members from multiple domain (QA, Mobile & Backend). 
 - Hands on coding to deliver high impact feature
-- Standardize development workflow & onboarding process
+- Standardize development workflow & onboarding process as part of improving engineering culture
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
@@ -29,16 +29,16 @@ I own the payment domain. Below are what I usually dealt with everyday
 - Ensure data consistency between payment system and finance ops 
 - Maintain existing payment system as well as other related monolith application
 - Provide additional payment method in Kitabisa ecosystem
-- Extending a company-wide design system by proposing new technology or improving existing one by identifying coupled
-  business logic related with payment domain
+- Extending a company-wide design system by proposing new technology or improving existing system 
 
 **_Technologies used:_** Golang, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
 Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
 **_Notable activities & responsibilities: :_** 
-- Migrate entire legacy Kurban service to Golang and it's infrastructure from EC2 to GKE
-- Donasi Otomatis Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
+- Modernise and migrate entire legacy service to Golang and it's infrastructure from EC2 to GKE
+- Automatic Donation Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
+- Implementing Open Telemetry to multiple critical backend service as part of the company-wide observability initiative
 
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
