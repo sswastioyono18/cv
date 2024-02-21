@@ -17,12 +17,25 @@ I wanted to work where we care and value about the product, the people who use i
 <hr>
 <h3>Kitabisa </h3>
 
-**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Present)_ <br>
-Act as point of contact for backend technical related matter in payment and user platform squad
-- Align with PM to create tech roadmap and reduce tech debt
-- Managed and coached 8 team members from multiple domain (QA, Mobile & Backend). 
+**Senior Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2024 - Present)_ <br>
+Act as SME for technical implementation related with payment
+- Managed and coached multiple team members from multiple domain (QA, Mobile & Backend). 
 - Hands on coding to deliver high impact feature
 - Standardize development workflow & onboarding process as part of improving engineering culture
+
+**_Notable activities & responsibilities: :_**
+- OpenAPI initiative
+- Implemented Alert OnCall using Grafana
+
+**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - 2023)_ <br>
+Act as SME for any implementation related with 3rd party payments, donations and donors flow 
+I also managed multiple team members from multiple domain (QA, Mobile & Backend). 
+Additionally, I also involved as an IC for high impact projects. 
+
+**_Notable activities & responsibilities: :_**
+- Modernise 1 legacy service from PHP to Golang and it's infrastructure from EC2 to GKE
+- Automatic Donation Initiative which bring more than **10%** GDV
+- Implementing Open Telemetry as part of the company-wide observability initiative
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
@@ -36,10 +49,6 @@ I own the payment domain. Below are what I usually dealt with everyday
 Timescale, Jaeger, GCP, Ansible, Redis
   <br><br>
 
-**_Notable activities & responsibilities: :_** 
-- Modernise and migrate entire legacy service to Golang and it's infrastructure from EC2 to GKE
-- Automatic Donation Initiative V1 & V2 which bring **10%** overall GDV to Kitabisa
-- Implementing Open Telemetry to multiple critical backend service as part of the company-wide observability initiative
 
 <hr>
 <h3> Rakuten Books - Tokyo </h3>
