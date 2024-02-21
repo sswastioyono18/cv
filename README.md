@@ -23,7 +23,7 @@ Focus on planning and creating impacts on a whole engineering department instead
 
 **_Notable activities :_**
 - OpenAPI initiative
-- Implemented Alert OnCall using Grafana
+- Implemented Alert OnCall using Grafana OnCall
 
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
 Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow 
