@@ -31,9 +31,9 @@ I also managed multiple team members from multiple domain (QA, Mobile & Backend)
 Additionally, I also involved as an IC for high impact projects. 
 
 **_Notable activities & responsibilities:_**
-- Modernize 1 monolith service from PHP to Golang and it's infrastructure from EC2 to GKE
+- Modernize 1 monolith service created in 2019 in PHP to Go and also move the infrastructure from EC2 to GKE
 - Automatic Donation Initiative which bring more than **10%** GDV
-- Implementing Open Telemetry as part of the company-wide observability initiative
+- Implemented Open Telemetry as part of the company-wide observability initiative
 - Automate development pipeline workflow with JIRA and Github from task creation until project release
 
 
@@ -45,7 +45,7 @@ I own the payment domain. Below are what I usually dealt with everyday
 - Extending a company-wide design system by proposing new technology or improving existing system 
 
 **_Technologies used:_** Golang, Javascript, Typescript, gRPC, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Mongo, Kubernetes, Helm, Github Action, Grafana,
-Timescale, Jaeger, GCP, AWS SES/SQS/RDS, Datadog, Ansible, Redis, OpenAPI, Keycloak
+Timescale, Jaeger, GCP, AWS EC2/SES/SQS/RDS, Datadog, Ansible, Redis, OpenAPI, Keycloak
   <br><br>
 
 
