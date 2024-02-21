@@ -6,7 +6,7 @@ _A curiosity driven, continuous learning mindset and polyglot engineer_
 
 ## What / Where I want to be
 Looking for a place that can give me constant challenge and growth with no blame culture. <br>
-I wanted to work where we care and value about the product, the people who use it and those who create it. <br>
+I wanted to work where the company care about the value of the product, the people who use it and those who create it. <br>
 
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
