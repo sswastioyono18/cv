@@ -26,9 +26,9 @@ Focus on planning and creating impacts on a whole engineering department instead
 - Implemented Alert OnCall using Grafana OnCall
 
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
-Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow 
-I also managed multiple team members from multiple domain (QA, Mobile & Backend) and do performance reviews quarterly. 
-Additionally, I also involved as an IC for high impact projects. 
+Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow.
+Managed multiple team members from multiple domain (QA, Mobile & Backend) and do performance reviews quarterly. 
+50% of the time also involved as an IC for high impact projects. 
 
 **_Notable activities & responsibilities:_**
 - Modernize 1 monolith service created in 2019 in PHP to Go and also move the infrastructure from EC2 to GKE
