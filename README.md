@@ -17,25 +17,24 @@ I wanted to work where the company care about the value of the product, the peop
 <hr>
 <h3>Kitabisa </h3>
 
-**Senior Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2024 - Present)_ <br>
-Act as SME for technical implementation related with payment
-- Managed and coached multiple team members from multiple domain (QA, Mobile & Backend). 
-- Hands on coding to deliver high impact feature
-- Standardize development workflow & onboarding process as part of improving engineering culture
+**Senior Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2024 - Present)_ <br>
+Report to HoE. Responsibilities are similar as Technical Manager + Hiring and to smaller extends budgeting.
+Focus on planning and creating impacts on a whole engineering department instead of just backend.
 
-**_Notable activities & responsibilities: :_**
+**_Notable activities :_**
 - OpenAPI initiative
 - Implemented Alert OnCall using Grafana
 
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - 2023)_ <br>
-Act as SME for any implementation related with 3rd party payments, donations and donors flow 
-I also managed multiple team members from multiple domain (QA, Mobile & Backend). 
+Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow 
+I also managed multiple team members from multiple domain (QA, Mobile & Backend) and do performance reviews quarterly. 
 Additionally, I also involved as an IC for high impact projects. 
 
-**_Notable activities & responsibilities: :_**
-- Modernise 1 legacy service from PHP to Golang and it's infrastructure from EC2 to GKE
+**_Notable activities & responsibilities:_**
+- Modernize 1 monolith service from PHP to Golang and it's infrastructure from EC2 to GKE
 - Automatic Donation Initiative which bring more than **10%** GDV
 - Implementing Open Telemetry as part of the company-wide observability initiative
+- Automate development pipeline workflow with JIRA and Github from task creation until project release
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
@@ -45,8 +44,8 @@ I own the payment domain. Below are what I usually dealt with everyday
 - Provide additional payment method in Kitabisa ecosystem
 - Extending a company-wide design system by proposing new technology or improving existing system 
 
-**_Technologies used:_** Golang, gRPC, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana,
-Timescale, Jaeger, GCP, Ansible, Redis
+**_Technologies used:_** Golang, Javascript, Typescript, gRPC, PHP, Python, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Mongo, Kubernetes, Helm, Github Action, Grafana,
+Timescale, Jaeger, GCP, AWS SES/SQS/RDS, Datadog, Ansible, Redis, OpenAPI, Keycloak
   <br><br>
 
 
