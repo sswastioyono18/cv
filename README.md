@@ -17,7 +17,7 @@ I wanted to work where the company care about the value of the product, the peop
 <hr>
 <h3>Kitabisa </h3>
 
-**Senior Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2024 - Present)_ <br>
+**Senior Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Dec 2023 - Present)_ <br>
 Report to HoE. Responsibilities are similar as Technical Manager + Hiring and to smaller extends budgeting.
 Focus on planning and creating impacts on a whole engineering department instead of just backend.
 
@@ -25,7 +25,7 @@ Focus on planning and creating impacts on a whole engineering department instead
 - OpenAPI initiative
 - Implemented Alert OnCall using Grafana
 
-**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - 2023)_ <br>
+**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
 Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow 
 I also managed multiple team members from multiple domain (QA, Mobile & Backend) and do performance reviews quarterly. 
 Additionally, I also involved as an IC for high impact projects. 
