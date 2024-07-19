@@ -2,7 +2,7 @@
 
 _A curiosity driven, continuous learning mindset and polyglot engineer_
 <br> _passionate about CI/CD, developer experience, people & human behaviour_
-<br> _experience in managing and also hands on from various sectors such as banking, e-commerce and crowdfunding_ <br>
+<br> _experience in managing and also hands on from various sectors such as banking, e-commerce and crowdfunding._ <br>
 
 ## What / Where I want to be
 Looking for a place that can give me constant challenge and growth with no blame culture. <br>
