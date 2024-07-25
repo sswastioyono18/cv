@@ -12,18 +12,19 @@ I wanted to work where the company care about the value of the product, the peop
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
 / [GitHub](https://github.com/sswastioyono18/)
 
-## Technical Experience
+## Experience
 
 <hr>
 <h3>Kitabisa </h3>
 
 **Senior Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Dec 2023 - Present)_ <br>
-Report to HoE. Responsibilities are similar as Technical Manager + Hiring and to smaller extends budgeting.
+Report to HoE. Responsibilities are similar as Technical Manager including hiring and to smaller extends budgeting.
 Focus on planning and creating impacts on a whole engineering department instead of just backend.
 
 **_Notable activities :_**
-- OpenAPI initiative
-- Implemented Alert OnCall using Grafana OnCall
+- Initiated an Open API project and unified API documentation based on the Open API standard.
+- Initiated key feature for Role-Based Access Control (RBAC) used in the internal dashboard for the Kurban 2024 project which result in Rp 18 Million of total GDV.
+- Implemented Alert OnCall using Grafana OnCall, which help developers to monitor production and uphold engineering quality standards.
 
 **Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
 Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow.
@@ -31,10 +32,10 @@ Managed multiple team members from multiple domain (QA, Mobile & Backend) and do
 50% of the time also involved as an IC for high impact projects. 
 
 **_Notable activities & responsibilities:_**
-- Modernize 1 monolith service created in 2019 in PHP to Go and also move the infrastructure from EC2 to GKE
-- Automatic Donation Initiative which bring more than **10%** GDV
-- Implemented Open Telemetry as part of the company-wide observability initiative
-- Automate development pipeline workflow with JIRA and Github from task creation until project release
+- Modernized a monolith service created in 2019 from PHP to Go and migrated the infrastructure from EC2 to GKE.
+- Launched an Automatic Donation Initiative, resulting in more than a 10% increase in Gross Donation Volume (GDV).
+- Implemented Open Telemetry as part of a company-wide observability initiative.
+- Automated the development pipeline workflow with JIRA and GitHub, covering everything from task creation to project release.
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
