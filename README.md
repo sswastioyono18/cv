@@ -25,6 +25,7 @@ Focus on planning and expected to create impacts on multiple engineering streams
 - Initiated an Open API project and unified API documentation based on the Open API standard.
 - Initiated key feature for Role-Based Access Control (RBAC) used in the internal dashboard for the Kurban 2024 project which result in Rp 18 Million of total GDV.
 - Implemented Alert OnCall using Grafana OnCal to monitor production and uphold engineering quality standards.
+- Initiated Grafana Tempo implementation which replace Jaeger to link logs and traces. 
 
 **Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
 Report to Senior Engineering Manager. Act as SME for implementation related with 3rd party payments, donations and donors flow.
