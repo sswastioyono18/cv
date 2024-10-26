@@ -18,16 +18,16 @@ I wanted to work where the company care about the value of the product, the peop
 <h3>Kitabisa </h3>
 
 **Senior Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Dec 2023 - Present)_ <br>
-Report to HoE. Responsibilities are similar as Technical Manager including hiring and to smaller extends budgeting.
-Focus on planning and creating impacts on a whole engineering department instead of just backend.
+Report to HoE. Responsibilities similar to EM plus hiring, security and to smaller extends budgeting.
+Focus on planning and expected to create impacts on multiple engineering streams instead of just backend.
 
 **_Notable activities :_**
 - Initiated an Open API project and unified API documentation based on the Open API standard.
 - Initiated key feature for Role-Based Access Control (RBAC) used in the internal dashboard for the Kurban 2024 project which result in Rp 18 Million of total GDV.
-- Implemented Alert OnCall using Grafana OnCall, which help developers to monitor production and uphold engineering quality standards.
+- Implemented Alert OnCall using Grafana OnCal to monitor production and uphold engineering quality standards.
 
-**Technical Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
-Report to EM. Act as SME for any implementation related with 3rd party payments, donations and donors flow.
+**Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
+Report to Senior Engineering Manager. Act as SME for implementation related with 3rd party payments, donations and donors flow.
 Managed multiple team members from multiple domain (QA, Mobile & Backend) and do performance reviews quarterly. 
 50% of the time also involved as an IC for high impact projects. 
 
