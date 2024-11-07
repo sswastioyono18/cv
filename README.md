@@ -156,7 +156,7 @@ CIMB Niaga & BII
 ## Education
 
 **Master of Information System** <br>
-[University of Melbourne](https://www.unimelb.edu.au/) - Melbourne, Australia _(2013 - 2015)_
+[University of Melbourne](https://www.unimelb.edu.au/) - Melbourne, Australia _(2013/08 - 2015/08)_
 
 **Bachelor of Computer Science** <br>
-[University of Indonesia](https://www.ui.ac.id/en/) - Depok, Indonesia _(2006 - 2011)_
+[University of Indonesia](https://www.ui.ac.id/en/) - Depok, Indonesia _(2006/07 - 2011/07)_
