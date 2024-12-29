@@ -1,12 +1,15 @@
 # Sactio Swastioyono
 
+## About me
 _A curiosity driven, continuous learning mindset and polyglot engineer_
+<br> _very committed to my craft and always ready to learn new things, even if it means I have to do it on my own free time._ <br>
 <br> _passionate & obsessive about DevEx, engineering metrics and human behaviour_
 <br> _experience in multiple business domain such as banking, e-commerce and crowdfunding._ <br>
+<br> _very pragmatic person. Any solution will work, given some tradeoff._ <br>
 
 ## What / Where I want to be
-Looking for a place that can give me constant challenge and growth with no blame culture. <br>
-I wanted to work where the company care about the value of the product, the people who use it and those who create it. <br>
+I am looking for an environment that has no blame culture and can balance both freedom and challenge.<br>
+I'm easily bored with regular work so make sure you allow me to explore new things.<br>
 
 
 [Email](mailto:email.tyo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sactio-swastioyono/)
