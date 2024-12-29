@@ -1,8 +1,8 @@
 # Sactio Swastioyono
 
 _A curiosity driven, continuous learning mindset and polyglot engineer_
-<br> _passionate about developer experience, engineering metrics and human behaviour_
-<br> _experience in managing and also hands on from various sectors such as banking, e-commerce and crowdfunding._ <br>
+<br> _passionate & obsessive about DevEx, engineering metrics and human behaviour_
+<br> _experience in multiple business domain such as banking, e-commerce and crowdfunding._ <br>
 
 ## What / Where I want to be
 Looking for a place that can give me constant challenge and growth with no blame culture. <br>
@@ -22,21 +22,22 @@ Report to HoE. Responsibilities similar to EM plus hiring, security and to small
 Focus on planning and expected to create impacts on multiple engineering streams instead of just backend.
 
 **_Notable activities :_**
-- Initiated an Open API project and unified API documentation based on the Open API standard.
-- Initiated key feature for Role-Based Access Control (RBAC) used in the internal dashboard for the Kurban 2024 project which result in Rp 18 Million of total GDV.
-- Implemented Alert OnCall using Grafana OnCal to monitor production and uphold engineering quality standards.
-- Initiated Grafana Tempo implementation which replace Jaeger to link logs and traces. 
+- Implemented Open API as part of backend documentation standards.
+- Implemented Casbin for Role-Based Access Control (RBAC) for the Kurban 2024 project, which bring 10% additional Gross Donation Value (GDV).
+- Implemented alerting as part of OnCall rotation using Grafana OnCall.
+- Implemented Grafana Tempo to replace Jaeger as part of cost saving measure. 
+- Created Developer Bot to standardize deployment, patching and recurring ops activities.
 
 **Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Nov 2021 - Nov 2023)_ <br>
-Report to Senior Engineering Manager. Act as SME for implementation related with 3rd party payments, donations and donors flow.
+Report to Senior Engineering Manager. Act as SME for implementation related with 3rd party payments and donations journey.
 Managed multiple team members from multiple domain (QA, Mobile & Backend) and do performance reviews quarterly. 
 50% of the time also involved as an IC for high impact projects. 
 
 **_Notable activities & responsibilities:_**
 - Modernized a monolith service created in 2019 from PHP to Go and migrated the infrastructure from EC2 to GKE.
-- Launched an Automatic Donation Initiative, resulting in more than a 10% increase in Gross Donation Volume (GDV).
+- Launched an Automatic Donation Initiative, resulting in more than a 10% increase in Gross Donation Value (GDV).
 - Implemented Open Telemetry as part of a company-wide observability initiative.
-- Automated the development pipeline workflow with JIRA and GitHub, covering everything from task creation to project release.
+- Automated the development pipeline workflow, covering everything from task creation to project release.
 
 
 **Senior Backend Engineer** @ [Kitabisa](https://kitabisa.com/) _(Sep 2020 - Oct 2021)_ <br>
