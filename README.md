@@ -20,14 +20,21 @@ I'm easily bored with regular work so make sure you allow me to explore new thin
 <hr>
 <h3>Kitabisa </h3>
 
+**Lead Platform Engineer** @ [Kitabisa](https://kitabisa.com/) _(Jan 2025 - Present)_ <br>
+A new role in 2025 focused on creating a golden path for the engineer to improve productivity, quality and security of Kitabisa platform.
+**_Notable activities :_**
+- Implemented reusable workflow as part of standardizing Github Action.
+- Implemented LLM for text analysis sentiment to determine Doa is allowed or not.
+- Implemented traces & otel metrics to capture visibility on engineering and business metrics.
+
 **Senior Engineering Manager** @ [Kitabisa](https://kitabisa.com/) _(Dec 2023 - Present)_ <br>
-Report to HoE. Responsibilities similar to EM plus hiring, security and to smaller extends budgeting.
+Report to HoE. Managed Senior Engineer and Team Leaders from different team. Responsibilities similar to EM plus hiring, security and to smaller extends budgeting.
 Focus on planning and expected to create impacts on multiple engineering streams instead of just backend.
 
 **_Notable activities :_**
-- Implemented Open API as part of backend documentation standards.
+- Implemented Open API and created Internal Developer Platform to access multiple Open API(s).
 - Implemented Casbin for Role-Based Access Control (RBAC) for the Kurban 2024 project, which bring 10% additional Gross Donation Value (GDV).
-- Implemented alerting as part of OnCall rotation using Grafana OnCall.
+- Implemented OnCall rotation using Grafana OnCall.
 - Implemented Grafana Tempo to replace Jaeger as part of cost saving measure. 
 - Created Developer Bot to standardize deployment, patching and recurring ops activities.
 
